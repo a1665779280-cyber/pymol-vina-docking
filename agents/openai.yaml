@@ -1,0 +1,4 @@
+interface:
+  display_name: "PyMOL + Vina Docking"
+  short_description: "Plan, verify, and visualize Vina docking in PyMOL"
+  default_prompt: "Use $pymol-vina-docking to plan, verify, and create a reference-matched 600-DPI publication-style protein-ligand docking figure."
